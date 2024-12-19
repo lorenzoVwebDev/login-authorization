@@ -2,7 +2,7 @@
 An authorization server that checks whether the client credentials are right. 
 ## Features
 - MVC using express.Routes() to handle the login authorization and virtual other subscribe/login scripts with just one uri segment
-- bcrypt dependecy to check hashed password accountability
+- bcrypt dependecy to check hashed password's accountability
 - [authController.js](https://github.com/lorenzoVwebDev/login-authorization/blob/master/controllers/authController.js) used to check credentials  and manage responses as 400, 401, 500 and 200
 --
 ### You can find this project here on my personal portfolio --> [lorenzo-viganego.com](https://www.lorenzo-viganego.com/#portfolio)
